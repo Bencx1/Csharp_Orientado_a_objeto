@@ -1,0 +1,16 @@
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\bin\Debug\net5.0\csharpoo.exe
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\bin\Debug\net5.0\csharpoo.deps.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\bin\Debug\net5.0\csharpoo.runtimeconfig.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\bin\Debug\net5.0\csharpoo.runtimeconfig.dev.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\bin\Debug\net5.0\csharpoo.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\bin\Debug\net5.0\csharpoo.pdb
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\obj\Debug\net5.0\csharpoo.csproj.AssemblyReference.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\obj\Debug\net5.0\csharpoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\obj\Debug\net5.0\csharpoo.AssemblyInfoInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\obj\Debug\net5.0\csharpoo.AssemblyInfo.cs
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\obj\Debug\net5.0\csharpoo.csproj.CoreCompileInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\obj\Debug\net5.0\csharpoo.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\obj\Debug\net5.0\refint\csharpoo.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\obj\Debug\net5.0\csharpoo.pdb
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\obj\Debug\net5.0\csharpoo.genruntimeconfig.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\csharpoo\obj\Debug\net5.0\ref\csharpoo.dll

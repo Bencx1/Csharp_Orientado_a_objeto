@@ -1,0 +1,16 @@
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\bin\Debug\net5.0\Aula12.exe
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\bin\Debug\net5.0\Aula12.deps.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\bin\Debug\net5.0\Aula12.runtimeconfig.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\bin\Debug\net5.0\Aula12.runtimeconfig.dev.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\bin\Debug\net5.0\Aula12.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\bin\Debug\net5.0\Aula12.pdb
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\obj\Debug\net5.0\Aula12.csproj.AssemblyReference.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\obj\Debug\net5.0\Aula12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\obj\Debug\net5.0\Aula12.AssemblyInfoInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\obj\Debug\net5.0\Aula12.AssemblyInfo.cs
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\obj\Debug\net5.0\Aula12.csproj.CoreCompileInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\obj\Debug\net5.0\Aula12.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\obj\Debug\net5.0\refint\Aula12.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\obj\Debug\net5.0\Aula12.pdb
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\obj\Debug\net5.0\Aula12.genruntimeconfig.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Aula12\obj\Debug\net5.0\ref\Aula12.dll

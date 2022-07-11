@@ -1,0 +1,16 @@
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\bin\Debug\net5.0\Ex08.exe
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\bin\Debug\net5.0\Ex08.deps.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\bin\Debug\net5.0\Ex08.runtimeconfig.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\bin\Debug\net5.0\Ex08.runtimeconfig.dev.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\bin\Debug\net5.0\Ex08.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\bin\Debug\net5.0\Ex08.pdb
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\obj\Debug\net5.0\Ex08.csproj.AssemblyReference.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\obj\Debug\net5.0\Ex08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\obj\Debug\net5.0\Ex08.AssemblyInfoInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\obj\Debug\net5.0\Ex08.AssemblyInfo.cs
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\obj\Debug\net5.0\Ex08.csproj.CoreCompileInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\obj\Debug\net5.0\Ex08.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\obj\Debug\net5.0\refint\Ex08.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\obj\Debug\net5.0\Ex08.pdb
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\obj\Debug\net5.0\Ex08.genruntimeconfig.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex08\obj\Debug\net5.0\ref\Ex08.dll

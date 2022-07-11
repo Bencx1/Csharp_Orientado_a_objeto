@@ -1,0 +1,16 @@
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\bin\Debug\net5.0\Ex11.exe
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\bin\Debug\net5.0\Ex11.deps.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\bin\Debug\net5.0\Ex11.runtimeconfig.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\bin\Debug\net5.0\Ex11.runtimeconfig.dev.json
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\bin\Debug\net5.0\Ex11.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\bin\Debug\net5.0\Ex11.pdb
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\obj\Debug\net5.0\Ex11.csproj.AssemblyReference.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\obj\Debug\net5.0\Ex11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\obj\Debug\net5.0\Ex11.AssemblyInfoInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\obj\Debug\net5.0\Ex11.AssemblyInfo.cs
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\obj\Debug\net5.0\Ex11.csproj.CoreCompileInputs.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\obj\Debug\net5.0\Ex11.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\obj\Debug\net5.0\refint\Ex11.dll
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\obj\Debug\net5.0\Ex11.pdb
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\obj\Debug\net5.0\Ex11.genruntimeconfig.cache
+C:\Users\Benedito\Downloads\csharp_oo\csharpoo\Ex11\obj\Debug\net5.0\ref\Ex11.dll
